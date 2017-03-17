@@ -1,0 +1,12 @@
+C:\NSA\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\NSA\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\NSA\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\NSA\CTM\bin\Debug\WindowsFormsApplication4.exe.config
+C:\NSA\CTM\obj\Debug\WindowsFormsApplication4.exe
+C:\NSA\CTM\obj\Debug\WindowsFormsApplication4.pdb
+C:\NSA\CTM\bin\Debug\WindowsFormsApplication4.exe
+C:\NSA\CTM\bin\Debug\WindowsFormsApplication4.pdb
+C:\NSA\CTM\obj\Debug\CTM.csprojResolveAssemblyReference.cache
+C:\NSA\CTM\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\NSA\CTM\obj\Debug\CTM.csproj.GenerateResource.Cache
+C:\NSA\CTM\obj\Debug\WindowsFormsApplication4.CTM.resources
